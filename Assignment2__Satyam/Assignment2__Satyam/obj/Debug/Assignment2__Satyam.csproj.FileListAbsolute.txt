@@ -1,0 +1,7 @@
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\bin\Debug\Assignment2__Satyam.pdb
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\obj\Debug\Assignment2__Satyam.csproj.AssemblyReference.cache
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\obj\Debug\Assignment2__Satyam.csproj.CoreCompileInputs.cache
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\obj\Debug\Assignment2__Satyam.pdb
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\bin\Debug\Assignment2__Satyam.exe
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\obj\Debug\Assignment2__Satyam.csproj.SuggestedBindingRedirects.cache
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\obj\Debug\Assignment2__Satyam.exe
