@@ -5,3 +5,12 @@ E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Saty
 E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\bin\Debug\Assignment2__Satyam.exe
 E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\obj\Debug\Assignment2__Satyam.csproj.SuggestedBindingRedirects.cache
 E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\obj\Debug\Assignment2__Satyam.exe
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\bin\Debug\NUnit3.TestAdapter.dll
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\bin\Debug\NUnit3.TestAdapter.pdb
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\bin\Debug\nunit.engine.dll
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\bin\Debug\nunit.engine.api.dll
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\bin\Debug\nunit.engine.core.dll
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\bin\Debug\testcentric.engine.metadata.dll
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\bin\Debug\nunit.framework.dll
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\bin\Debug\nunit.framework.xml
+E:\STUDY\Conestoga Study\2nd sem\software testing\Assignment_2\Assignment2__Satyam\Assignment2__Satyam\obj\Debug\Assignment2__Satyam.csproj.CopyComplete

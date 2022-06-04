@@ -32,6 +32,7 @@ namespace Assignment2__Satyam
         {
             return length;
         }
+         
 
         //method 2
         public int SetLength(int length)
